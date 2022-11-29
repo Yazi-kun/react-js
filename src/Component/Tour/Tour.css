@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+
+
+.direction{
+    display:flex;
+    flex-direction:row;
+    gap:20px;
+    justify-content: center;
+   
+}
+
+.tour{
+    margin-bottom: 100px;
+    background-color:black;
+    padding-bottom: 100px;
+}
+
+

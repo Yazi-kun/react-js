@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+#road{
+    padding-bottom: 80px;
+}
+
+#media{
+    color:gray;
+    display:flex;
+    gap:5px;
+    font-size: 23px;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+#fb:hover{
+    color:gainsboro;
+}
+
+#insta:hover{
+    color:rgb(117, 117, 117);
+}
+
+#twi:hover{
+    color:gainsboro;
+}
+
+#snap:hover{
+    color:gainsboro;
+}
+#pin:hover{
+    color:gainsboro;
+}
+#link:hover{
+    color:gainsboro;
+}
+
+#foot{
+    text-align: center;
+    color:gray;
+    padding-bottom: 75px;
+}

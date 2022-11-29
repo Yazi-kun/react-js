@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+.text{
+    position: absolute;
+    left:40%;
+    text-align: center;
+    top:85%;
+    color:white;
+
+}
+

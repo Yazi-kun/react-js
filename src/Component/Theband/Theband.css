@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.theband{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding:2% 25%;
+    margin-bottom: 5%;
+
+    
+}
+
+
+h1{
+    font-size:30px;
+    letter-spacing: 3px;  
+    padding-top: 6%;
+    text-align: center;
+    
+}
+#subtitle{
+    padding-top: 3%;
+    font-style: italic; 
+    opacity:0.6;
+    text-justify: inter-word;
+   
+}
+#parag{
+    padding-top: 3%;
+    line-height: 1.5; 
+    font-size: 15px;
+    text-align: justify;
+    padding-bottom: 6%;
+    
+    
+}
+
+#member{
+    
+    border-radius: 4px;
+
+    
+}
+
+.Section{
+    display:flex;
+               flex-direction: row;
+               padding-left:20%;
+               padding-top: 3%;
+               text-align: center;
+}

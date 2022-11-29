@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.ville1{
+    background-color: white;
+    padding: 5%;
+    
+    
+}
+
+
+
+.btto{
+    color:white; 
+    background-color:black;
+   padding:10px;
+    width: 100px;
+    border:none;
+    text-align: center;
+}
+.btto:hover{
+    background-color: grey ;
+    cursor: pointer;
+}
+
+
+#image:hover{
+    filter:contrast(0.7);
+        
+}
